@@ -1,0 +1,2 @@
+flappy-bird-gym==0.3.0
+neat-python==0.92
